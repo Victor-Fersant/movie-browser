@@ -12,6 +12,29 @@ h1 {
     text-shadow: 2px 2px 4px #000000;
 }
 
+.logo {
+    text-decoration: none;
+}
+
+.pesquisa {
+    width: 450px;
+    height: 35px;
+    font-size: 20px;
+    margin-right: 10px;
+    border: 1px solid #000000;
+}
+
+.btn {
+    width: 100px;
+    height: 35px;
+    font-size: 18px;
+    background: white;
+    color: rgb(0, 0, 0);
+    border: 1px solid #000000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
 #movie-list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -27,4 +50,11 @@ h1 {
 
 .movie-card img {
     width: 100%;
+}
+
+#message {
+    font-size: 19px;
+    color: white;
+    padding-top: 15px;
+    font-weight: bold;
 }

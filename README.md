@@ -4,12 +4,18 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Victor Fernandes dos Santos
+- Matrícula: 928768
+
+## Breve descrição do fluxo "requisição → tratamento → renderização"
+
+Ao carregar a página ou realizar uma busca, é feita uma requisição à API utilizando a Fetch API para obter os dados dos filmes. Em seguida, a resposta é convertida para JSON e tratada pelo JavaScript, extraindo as informações necessárias. Depois os dados são renderizados na tela por meio da criação dinâmica de cards contendo pôster, título, ano, nota e sinopse dos filmes.
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+![lista](public/print-lista.png)
 
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
+![resultado](public/print-result.png)
+
+
 
