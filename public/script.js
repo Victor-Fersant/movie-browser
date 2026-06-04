@@ -54,6 +54,7 @@ async function fetchMovies(query = "") {
 
 
 //Criar cards
+
 function createMovieCard(movie) {
     const card =
         document.createElement("div");
@@ -93,6 +94,7 @@ function createMovieCard(movie) {
 
 
 // Renderizar filmes
+
 function renderMovies(movies) {
     movieList.innerHTML = "";
 
