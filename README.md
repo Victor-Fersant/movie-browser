@@ -1,26 +1,36 @@
-<<<<<<< HEAD
-# Trabalho Prático - Semana 12
+# Movie Browser
 
-Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interface de visualização de filmes. Para isso, vamos utilizar a [The Movie Database (TMDB) API](https://developer.themoviedb.org/docs/getting-started). A página resultante deve listar os resultados de uma requisição HTTP em formato de cards e deve incluir uma funcionalidade de pesquisa ou filtro. 
+Aplicação web que consome a API do TMDB para pesquisa e visualização de filmes, exibindo pôster, nota, ano de lançamento e sinopse em uma interface responsiva.
 
-## Informações Gerais
+## 🚀 Funcionalidades
 
-- Nome: Victor Fernandes dos Santos
-- Matrícula: 928768
+- Listagem de filmes
+- Busca por título
+- Visualização de detalhes do filme
+- Interface responsiva
+- Consumo de dados via API (JSON Server / backend próprio)
 
-## Breve descrição do fluxo "requisição → tratamento → renderização"
+## 🛠️ Tecnologias utilizadas
 
-Ao carregar a página ou realizar uma busca, é feita uma requisição à API utilizando a Fetch API para obter os dados dos filmes. Em seguida, a resposta é convertida para JSON e tratada pelo JavaScript, extraindo as informações necessárias. Depois os dados são renderizados na tela por meio da criação dinâmica de cards contendo pôster, título, ano, nota e sinopse dos filmes.
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Fetch API
+- JSON Server (caso use)
+- Git & GitHub
+
+## 📦 Como executar o projeto
+
+### 1. Clonar o repositório
+
+git clone https://github.com/seu-usuario/movie-catalog.git
 
 ## Prints do trabalho
 
-![lista](public/print-lista.png)
+![lista](public/img/print-lista.png)
 
-![resultado](public/print-result.png)
+![resultado](public/img/print-result.png)
 
 
 
-=======
-# movie-browser
-Aplicação web que consome a API do TMDB para pesquisa e visualização de filmes, exibindo pôster, nota, ano de lançamento e sinopse em uma interface responsiva.
->>>>>>> f70f4199c17883abf4ead803572b86c7842e6b6b
+
