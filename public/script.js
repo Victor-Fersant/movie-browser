@@ -5,7 +5,7 @@ const movieList =
 
 const searchInput =
     document.getElementById("search");
-
+ 
 const btnSearch =
     document.getElementById("btnSearch");
 
