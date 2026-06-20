@@ -2,7 +2,7 @@
 
 Aplicação web que consome a API do TMDB para pesquisa e visualização de filmes, exibindo pôster, nota, ano de lançamento e sinopse em uma interface responsiva.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Listagem de filmes
 - Busca por título
@@ -10,16 +10,15 @@ Aplicação web que consome a API do TMDB para pesquisa e visualização de film
 - Interface responsiva
 - Consumo de dados via API
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - Fetch API
-- JSON Server (caso use)
 - Git & GitHub
 
-## 📦 Como executar o projeto
+## Como executar o projeto
 
 ### 1. Clonar o repositório
 
