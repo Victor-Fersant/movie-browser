@@ -8,7 +8,7 @@ Aplicação web que consome a API do TMDB para pesquisa e visualização de film
 - Busca por título
 - Visualização de detalhes do filme
 - Interface responsiva
-- Consumo de dados via API (JSON Server / backend próprio)
+- Consumo de dados via API
 
 ## 🛠️ Tecnologias utilizadas
 
