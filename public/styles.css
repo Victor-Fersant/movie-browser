@@ -58,3 +58,14 @@ h1 {
     padding-top: 15px;
     font-weight: bold;
 }
+
+@media (max-width: 600px) {
+    .pesquisa {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .btn {
+        width: 100%;
+    }
+}
