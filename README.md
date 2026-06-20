@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trabalho Prático - Semana 12
 
 Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interface de visualização de filmes. Para isso, vamos utilizar a [The Movie Database (TMDB) API](https://developer.themoviedb.org/docs/getting-started). A página resultante deve listar os resultados de uma requisição HTTP em formato de cards e deve incluir uma funcionalidade de pesquisa ou filtro. 
@@ -19,3 +20,7 @@ Ao carregar a página ou realizar uma busca, é feita uma requisição à API ut
 
 
 
+=======
+# movie-browser
+Aplicação web que consome a API do TMDB para pesquisa e visualização de filmes, exibindo pôster, nota, ano de lançamento e sinopse em uma interface responsiva.
+>>>>>>> f70f4199c17883abf4ead803572b86c7842e6b6b
