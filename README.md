@@ -24,7 +24,7 @@ Aplicação web que consome a API do TMDB para pesquisa e visualização de film
 
 git clone https://github.com/seu-usuario/movie-catalog.git
 
-## Prints do trabalho
+## Prints do Projeto
 
 ![lista](public/img/print-lista.png)
 
